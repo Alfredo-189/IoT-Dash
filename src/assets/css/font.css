@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'open-sans-regular';
+  src: url("./../../assets/font/OpenSans-Regular.ttf"); }
+
+@font-face {
+  font-family: 'open-sans-light';
+  src: url("./../../assets/font/OpenSans-Light.ttf"); }
+
+@font-face {
+  font-family: 'open-sans-bold';
+  src: url("./../../assets/font/OpenSans-Bold.ttf"); }
+
+@font-face {
+  font-family: 'open-sans-semibold';
+  src: url("./../../assets/font/OpenSans-SemiBold.ttf"); }
